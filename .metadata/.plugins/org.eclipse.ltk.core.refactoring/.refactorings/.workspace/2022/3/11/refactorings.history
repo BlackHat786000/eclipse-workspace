@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;ProductService_CQRS&apos;" deleteContents="true" description="Delete resource &apos;ProductService_CQRS&apos;" element1="/ProductService_CQRS" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1646736372011"/>
+</session>

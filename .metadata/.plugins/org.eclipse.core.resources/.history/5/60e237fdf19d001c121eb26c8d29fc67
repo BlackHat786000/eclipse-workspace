@@ -1,0 +1,6 @@
+package com.demo.ProductService_CQRS.query.api.projection;
+
+@Component
+public class ProductProjection {
+
+}

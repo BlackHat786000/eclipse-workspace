@@ -1,0 +1,44 @@
+package com.core_java.string_problems;
+
+import java.util.HashMap;
+import java.util.stream.Stream;
+
+public class NoOfChar {
+
+	public static void main(String[] args) {
+
+		String str = "scbkvervnveibvbevi";
+		
+		String[] strarr = {"udit", "umesh", "sachin", "tarun" };
+
+		HashMap<Character, Integer> map = new HashMap<>();
+
+		// USING HASHMAP
+		
+//		for (int i = 0; i < str.length(); i++) {
+//			char s = strchr[i];
+//			if (map.containsKey(s)) {
+//				map.put(s, map.get(s) + 1);
+//			} else {
+//				map.put(s, 1);
+//			}
+//		}
+//
+//		System.out.println(map);
+		
+		// USING STREAM
+
+		str.chars().forEach(c -> {
+			char tmp = (char) c;
+			if (map.containsKey(tmp)) {
+				map.put(tmp, map.get(tmp) + 1);
+			} else {
+				map.put(tmp, 1);
+			}
+		});
+
+		System.out.println(map);
+	}
+	
+	Stream<String> stream = Stream.of("udit","umesh","sachin","tarun");
+}

@@ -1,0 +1,4 @@
+1638443417104	Extract local variable 'currencyExchange'
+1638443551450	Extract local variable 'port'
+1638447055164	Extract local variable 'findByFromAndTo'
+1638540156863	Extract local variable 'entity'

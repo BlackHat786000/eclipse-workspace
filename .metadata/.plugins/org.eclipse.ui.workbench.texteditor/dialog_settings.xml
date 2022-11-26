@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="Sub"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="sub"/>
+			<item value="Initial Transit"/>
+			<item value="i == 7 || i == 5 || i == 12"/>
+			<item value="i == 1 || i == 6 || i == 11"/>
+			<item value="---------------------------------------------------------------------------------------------------------------------------------------------------------------------"/>
+			<item value="/html/body/div[2]/div[2]/div/main/article/div/div[4]/div[2]/div[1]/div/div[1]/div/table/tbody/tr[1]/td[6]"/>
+			<item value="CUSPAL-SUB-LORDS"/>
+			<item value="toast"/>
+			<item value="-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"/>
+			<item value="flow"/>
+			<item value="currentPlanetLevel"/>
+			<item value="planet_status"/>
+			<item value="(&quot;AT &quot;+hours+&quot;:&quot;+minutes+&quot; (&quot;+IST_hours+&quot;:&quot;+IST_minutes+&quot; IST) :-\n&quot;);"/>
+			<item value="IST"/>
+			<item value="At"/>
+		</list>
+		<list key="replacehistory">
+			<item value="i == 7 || i == 8 || i == 9 || i == 4 || i == 5 || i == 12"/>
+			<item value="i == 1 || i == 2 || i == 3 || i == 6 || i == 10 || i == 11"/>
+			<item value="------------------------------------------------------------------------------------------------------------------------------------------"/>
+			<item value="------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"/>
+			<item value="planetFlow"/>
+			<item value="currentPlanetStatus"/>
+			<item value="i == 7 || i == 5 || i == 12"/>
+			<item value="i == 1 || i == 6 || i == 11"/>
+			<item value="&quot;L1 &quot; + planets_id.inverse().get(L1) + retro.get(Iterables.get(planets.get(L1), 0)) +"/>
+			<item value="i == 5 || i == 12"/>
+			<item value="i == 6 || i == 11"/>
+			<item value="i == 2 || i == 5 || i == 7 || i == 10 || i == 9 || i == 12"/>
+			<item value="i == 1 || i == 4 || i == 3 || i == 6 || i == 8 || i == 11"/>
+			<item value="Descendant"/>
+			<item value="csl"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="86"/>
+		<item key="DIALOG_Y_ORIGIN" value="243"/>
+		<item key="DIALOG_WIDTH" value="385"/>
+		<item key="DIALOG_HEIGHT" value="523"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

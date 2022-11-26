@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete 2 resources" deleteContents="true" description="Delete 2 resources" element1="/code" element2="/restful-web-services" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1631902682714"/>&#x0A;<refactoring comment="Rename resource &apos;restful-web-services2&apos; to &apos;restful-web-services&apos;" description="Rename resource &apos;restful-web-services2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/restful-web-services2" name="restful-web-services" stamp="1631902692267" updateReferences="true"/>
+</session>

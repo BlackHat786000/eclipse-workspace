@@ -1,0 +1,27 @@
+package com.mpl.problem;
+
+public class Array0 {
+
+	public static void main(String[] args) {
+		
+//		String[] arr = {"null"};
+//		
+//		System.out.println(arr.hashCode()+"----"+arr.length);
+//		
+//		arr = new String[0];
+//		
+//		System.out.println(arr.length);
+//		
+//		int i=10;
+//		
+//		if(i>10) {
+//			i = 11;
+//			System.out.println(i);
+//		} else {
+//			i=12;
+//			System.out.println(i);
+//		}
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.core_java.string_problems;
+
+public class NoOfChar {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

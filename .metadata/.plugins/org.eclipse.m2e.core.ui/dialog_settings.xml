@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\yadav\Downloads\Compressed\event-driven-microservices-main"/>
+			<item value="C:\Users\yadav\Documents\Eclipse Projects\ProductService_CQRS"/>
+			<item value="C:\Users\yadav\Documents\stadiums"/>
+			<item value="C:\Users\yadav\Documents\api-gateway"/>
+			<item value="C:\Users\yadav\Documents\naming-server"/>
+			<item value="C:\Users\yadav\Documents\currency-conversion-service"/>
+			<item value="C:\Users\yadav\Documents\currency-exchange-service"/>
+			<item value="C:\Users\yadav\Documents\spring-cloud-config-server"/>
+			<item value="C:\Users\yadav\Documents\limits-service"/>
+			<item value="C:\Users\yadav\Documents\Eclipse Projects\rest-web-services"/>
+			<item value="C:\Users\yadav\Documents\Microservices\contact-service"/>
+			<item value="C:\Users\yadav\Documents\Microservices\user-service"/>
+			<item value="C:\Users\yadav\Documents\Eclipse Projects\spring-boot-security"/>
+			<item value="C:\Users\yadav\Eclipse Projects\restful-web-services"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\yadav\eclipse-workspace\BalaAutoBet"/>
+			<item value="C:\Users\yadav\eclipse-workspace\AstroSportsReport"/>
+			<item value="C:\Users\yadav\eclipse-workspace"/>
+			<item value="C:\Users\yadav\Eclipse Projects"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.autobet.gemini"/>
+			<item value="com.autobet.geminiexch"/>
+			<item value="com.autobet.dream"/>
+		</list>
+		<list key="name">
+			<item value="AutoBet-Gemini"/>
+			<item value="AutoBet -&gt; Geminiexch"/>
+		</list>
+		<list key="artifactId">
+			<item value="AutoBet-Gemini"/>
+			<item value="AutoBet-Geminiexch"/>
+			<item value="AutoBet-Dream"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

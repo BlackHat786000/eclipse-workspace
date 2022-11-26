@@ -1,0 +1,17 @@
+package com.mpl.problem;
+
+public class Array0 {
+
+	public static void main(String[] args) {
+		
+		String[] arr = {"null"};
+		
+		System.out.println(arr.length);
+		
+		arr = new String[0];
+		
+		System.out.println(arr.hashCode()+"----"+arr.length);
+
+	}
+
+}

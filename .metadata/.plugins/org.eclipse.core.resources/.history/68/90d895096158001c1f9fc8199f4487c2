@@ -1,0 +1,54 @@
+package com.mpl.problem;
+
+public class Array0 {
+	
+	String requestId;
+	
+	
+
+	public String getRequestId() {
+		return requestId;
+	}
+
+
+
+	public static void main(String[] args) {
+		
+		// array declared of type Array0 of length 1
+		Array0[] a = new Array0[2];
+		
+//		// creating actual Array0 object
+		a[0] = new Array0();
+//		
+//		a[0].getRequestId();
+		
+//		System.out.println(a[0]);
+//		System.out.println(a.length);
+//		
+//		if(a[0] == null) {
+//			System.out.println("Fcuk");
+//		}
+		if(a[0].getRequestId() == null) {
+			System.out.println("Flow is here");
+		}
+//		String[] arr = {"null"};
+//		
+//		System.out.println(arr.hashCode()+"----"+arr.length);
+//		
+//		arr = new String[0];
+//		
+//		System.out.println(arr.length);
+//		
+//		int i=10;
+//		
+//		if(i>10) {
+//			i = 11;
+//			System.out.println(i);
+//		} else {
+//			i=12;
+//			System.out.println(i);
+//		}
+
+	}
+
+}
