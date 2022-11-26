@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;MyFrame.java&apos; to &apos;AstroSportsReport/src/main/java/com.n00bc0der.code.AstroSportsReport&apos;&#x0D;&#x0A;- Original project: &apos;Cognitn_KP&apos;&#x0D;&#x0A;- Destination element: &apos;AstroSportsReport/src/main/java/com.n00bc0der.code.AstroSportsReport&apos;&#x0D;&#x0A;- Original element: &apos;com.n00bc0der.code.Gambler_Dharma_v4.O.MyFrame.java&apos;" description="Copy compilation unit" destination="=AstroSportsReport/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.n00bc0der.code.AstroSportsReport" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.n00bc0der.code.Gambler_Dharma_v4.O{MyFrame.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1644143429417" units="1" version="1.0"/>
-</session>

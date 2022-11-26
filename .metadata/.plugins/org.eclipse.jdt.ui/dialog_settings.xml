@@ -169,9 +169,10 @@
 		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
 		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="C:\Users\yadav\eclipse-workspace"/>
 		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
-		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="Gambler_Dharma_v5 - Gambler-Dharma-v4.2"/>
-		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="D:\jars\Gambler-Dharma-v5.5.jar"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="Gambler_Dharma_v5 - Gambler-Dharma-v5"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="D:\jars\Gambler-Dharma-v5.jar"/>
 		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="D:\jars\Gambler-Dharma-v5.jar"/>
 			<item value="D:\jars\Gambler-Dharma-v5.5.jar"/>
 			<item value="D:\jars\Moon-Transit-Tracker-v1.0.jar"/>
 			<item value="D:\jars\KP-MUHURATA-v5.0.jar"/>
@@ -191,7 +192,6 @@
 			<item value="D:\jars\AutoBet-v3.2.1.jar"/>
 			<item value="D:\jars\AutoBet-v3.2.jar"/>
 			<item value="D:\jars\AutoBet-v3.2R.jar"/>
-			<item value="D:\jars\Gambler-Dharma-v4.2.jar"/>
 		</list>
 		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
 			<item value="C:\Users\yadav\eclipse-workspace.xml"/>

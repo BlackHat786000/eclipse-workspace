@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;Gambler_Dharma_v4_2.java&apos; to &apos;Gambler-Dharma-v4.2/src/main/java/com.n00bc0der.code.Gambler_Dharma_v4.O&apos;&#x0D;&#x0A;- Original project: &apos;Gambler-Dharma-v4.2&apos;&#x0D;&#x0A;- Destination element: &apos;Gambler-Dharma-v4.2/src/main/java/com.n00bc0der.code.Gambler_Dharma_v4.O&apos;&#x0D;&#x0A;- Original element: &apos;com.n00bc0der.code.Gambler_Dharma_v4.O.Gambler_Dharma_v4_2.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.n00bc0der.code.Gambler_Dharma_v4.O" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.n00bc0der.code.Gambler_Dharma_v4.O{Gambler_Dharma_v4_2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1644050138965" units="1" version="1.0"/>
-</session>
