@@ -14,6 +14,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\yadav\Downloads\Compressed\java-playground-main"/>
 			<item value="C:\Users\yadav\Downloads\Compressed\event-driven-microservices-main"/>
 			<item value="C:\Users\yadav\Documents\Eclipse Projects\ProductService_CQRS"/>
 			<item value="C:\Users\yadav\Documents\stadiums"/>
@@ -86,15 +87,21 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.send.email"/>
+			<item value="com.AutoBet.99EXCH"/>
 			<item value="com.autobet.gemini"/>
 			<item value="com.autobet.geminiexch"/>
 			<item value="com.autobet.dream"/>
 		</list>
 		<list key="name">
+			<item value="Send Email"/>
+			<item value="99EXCH"/>
 			<item value="AutoBet-Gemini"/>
 			<item value="AutoBet -&gt; Geminiexch"/>
 		</list>
 		<list key="artifactId">
+			<item value="SendEmail"/>
+			<item value="99EXCH"/>
 			<item value="AutoBet-Gemini"/>
 			<item value="AutoBet-Geminiexch"/>
 			<item value="AutoBet-Dream"/>

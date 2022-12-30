@@ -16,7 +16,7 @@ public class ComparableExample {
 		List<User> listuser = new ArrayList<User>();
 		
 		listuser.add(u1);
-		listuser.add(u2);
+		listuser.add(u2); // u2.compareTo(u1)
 		listuser.add(u3);
 		
 		Collections.sort(listuser);

@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="retro"/>
+		<item key="selection" value="planets_western"/>
 		<item key="wrap" value="true"/>
-		<item key="casesensitive" value="false"/>
+		<item key="casesensitive" value="true"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
-			<item value="retro"/>
-			<item value="retrograde"/>
-			<item value="Advanced"/>
-			<item value="---------------------------------------------------------------------------------------------------------------------------------------------------------------------"/>
-			<item value="sub"/>
-			<item value="Initial Transit"/>
-			<item value="i == 7 || i == 5 || i == 12"/>
-			<item value="i == 1 || i == 6 || i == 11"/>
-			<item value="/html/body/div[2]/div[2]/div/main/article/div/div[4]/div[2]/div[1]/div/div[1]/div/table/tbody/tr[1]/td[6]"/>
-			<item value="CUSPAL-SUB-LORDS"/>
-			<item value="toast"/>
-			<item value="-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"/>
-			<item value="flow"/>
-			<item value="currentPlanetLevel"/>
-			<item value="planet_status"/>
+			<item value="planets_western"/>
+			<item value="planets"/>
+			<item value="4"/>
+			<item value="POF"/>
+			<item value="Part"/>
+			<item value="Lord"/>
+			<item value="cusps"/>
+			<item value="self"/>
+			<item value="same sign"/>
+			<item value="ttla"/>
+			<item value="3"/>
+			<item value="***************************************************************************************************************************"/>
+			<item value="setContent"/>
+			<item value="Test Mailer"/>
+			<item value="&lt;&lt; continuing the flow &gt;&gt;"/>
 		</list>
 		<list key="replacehistory">
+			<item value="2"/>
+			<item value="******************************************************************************************************************************************"/>
+			<item value="GMailer"/>
+			<item value="-&gt; continuing the flow"/>
+			<item value="processingBet"/>
+			<item value=""/>
+			<item value="Selectors.amountInput"/>
+			<item value="Selectors.awayLay"/>
+			<item value="Selectors.awayBack"/>
+			<item value="Selectors.homeLay"/>
+			<item value="Selectors.homeBack"/>
 			<item value="------------------------------------------------------------------------------------------------------------------------------------------"/>
 			<item value="i == 7 || i == 8 || i == 9 || i == 4 || i == 5 || i == 12"/>
 			<item value="i == 1 || i == 2 || i == 3 || i == 6 || i == 10 || i == 11"/>
 			<item value="------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"/>
-			<item value="planetFlow"/>
-			<item value="currentPlanetStatus"/>
-			<item value="i == 7 || i == 5 || i == 12"/>
-			<item value="i == 1 || i == 6 || i == 11"/>
-			<item value="&quot;L1 &quot; + planets_id.inverse().get(L1) + retro.get(Iterables.get(planets.get(L1), 0)) +"/>
-			<item value="i == 5 || i == 12"/>
-			<item value="i == 6 || i == 11"/>
-			<item value="i == 2 || i == 5 || i == 7 || i == 10 || i == 9 || i == 12"/>
-			<item value="i == 1 || i == 4 || i == 3 || i == 6 || i == 8 || i == 11"/>
-			<item value="Descendant"/>
-			<item value="csl"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">

@@ -8,7 +8,7 @@
 	<item key="CallHierarchyViewPart.ratio0" value="500"/>
 	<item key="CallHierarchyViewPart.ratio1" value="500"/>
 	<item key="filters_last_used" value="filter_imports;"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\yadav\Downloads\Compressed\selenium-server-standalone-3.141.59"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\yadav\Downloads\Compressed\mailactivation"/>
 	<item key="ProjectSelectionDialog.show_all" value="false"/>
 	<section name="completion_proposal_size">
 	</section>
@@ -18,7 +18,7 @@
 	</section>
 	<section name="OptionalMessageDialog.hide.">
 		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
-		<item key="RunnableJar.export.ipwarning" value="false"/>
+		<item key="RunnableJar.export.ipwarning" value="true"/>
 	</section>
 	<section name="BuildPathsPropertyPage">
 		<item key="pageIndex" value="2"/>
@@ -169,9 +169,14 @@
 		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
 		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="C:\Users\yadav\eclipse-workspace"/>
 		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
-		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="Gambler_Dharma_v5 - Gambler-Dharma-v5"/>
-		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="D:\jars\Gambler-Dharma-v5.jar"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="GamblerDharma - Gambler&apos;s Dharma"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="D:\jars\GamblerDharma.jar"/>
 		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="D:\jars\GamblerDharma.jar"/>
+			<item value="D:\jars\99EXCH.jar"/>
+			<item value="D:\jars\StadiumService.jar"/>
+			<item value="D:\jars\MoonTransitTracker.jar"/>
+			<item value="D:\jars\Gambler&apos;s Dharma.jar"/>
 			<item value="D:\jars\Gambler-Dharma-v5.jar"/>
 			<item value="D:\jars\Gambler-Dharma-v5.5.jar"/>
 			<item value="D:\jars\Moon-Transit-Tracker-v1.0.jar"/>
@@ -187,11 +192,6 @@
 			<item value="D:\jars\AutoBet-v4.2.jar"/>
 			<item value="D:\jars\SessionBet-v3.2.jar"/>
 			<item value="D:\jars\AutoBetSession-v3.2.jar"/>
-			<item value="D:\jars\AutoBetSession-v4.2.jar"/>
-			<item value="D:\jars\Gambler_Dharma_v5.jar"/>
-			<item value="D:\jars\AutoBet-v3.2.1.jar"/>
-			<item value="D:\jars\AutoBet-v3.2.jar"/>
-			<item value="D:\jars\AutoBet-v3.2R.jar"/>
 		</list>
 		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
 			<item value="C:\Users\yadav\eclipse-workspace.xml"/>
