@@ -27,7 +27,7 @@ public class MyFrame extends JFrame {
 		String mode[] = { "STANDARD LAY", "AUTO LAY ANY", "REBOOK CUT LOSS", "REBOOK AS YOU WANT",
 				"LAY THEN BACK CUT LOSS", "LAY THEN BACK AS YOU WANT", "ONE TIME LAY", "ONE TIME BACK" };
 
-		setTitle("AutoBet v4.2 - 99EXCH");
+		setTitle("AutoBet v4.2 - CRICBET99");
 		setSize(470, 480);
 		setLocation(100, 100);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
@@ -88,7 +88,7 @@ public class MyFrame extends JFrame {
 		EMAIL.setText("OPTIONAL");
 		USERNAME = new JTextField();
 		USERNAME.setBounds(90, 15, 100, 25);
-		USERNAME.setText("uditnn126");
+		USERNAME.setText("cbudit343");
 		PASSWORD = new JPasswordField();
 		PASSWORD.setBounds(340, 15, 100, 25);
 		PASSWORD.setText("Iaminsane@786");

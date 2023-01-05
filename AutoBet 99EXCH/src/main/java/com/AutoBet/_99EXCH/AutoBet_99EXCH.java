@@ -35,7 +35,7 @@ public class AutoBet_99EXCH {
 		int punter_back_amount = 0;
 
 		System.out.println(
-				"\n********** Welcome To Punter's AutoBet (99EXCH) - set book both sides at desired odds **********\n\n");
+				"\n********** Welcome To Punter's AutoBet (CRICBET99) - set book both sides at desired odds **********\n\n");
 
 		String email = frame.EMAIL.getText();
 		String regex = "^[\\w!#$%&'*+/=?`{|}~^-]+(?:\\.[\\w!#$%&'*+/=?`{|}~^-]+)*@(?:[a-zA-Z0-9-]+\\.)+[a-zA-Z]{2,6}$";

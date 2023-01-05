@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="planets_western"/>
+		<item key="selection" value="ASC"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="true"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="ASC"/>
+			<item value="System"/>
+			<item value="99EXCH"/>
+			<item value="asc_csl"/>
+			<item value="1st CSL"/>
+			<item value="Iterables.get(planets.get(i), 6);"/>
+			<item value="// getting planet self-2 / tenanted-0 / untenanted-3 @ index 3"/>
+			<item value="dispPOF"/>
+			<item value="whole_sign_western"/>
+			<item value="D1_Lords_Western"/>
+			<item value="signs_id"/>
 			<item value="planets_western"/>
 			<item value="planets"/>
 			<item value="4"/>
 			<item value="POF"/>
-			<item value="Part"/>
-			<item value="Lord"/>
-			<item value="cusps"/>
-			<item value="self"/>
-			<item value="same sign"/>
-			<item value="ttla"/>
-			<item value="3"/>
-			<item value="***************************************************************************************************************************"/>
-			<item value="setContent"/>
-			<item value="Test Mailer"/>
-			<item value="&lt;&lt; continuing the flow &gt;&gt;"/>
 		</list>
 		<list key="replacehistory">
 			<item value="2"/>

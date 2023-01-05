@@ -22,6 +22,6 @@ public class Selectors {
 	public static final String placeBetMsg = "toast-message";
 	public static final String betSuccess = "Bet Placed Successfully!!";
 
-	public static final String matchURL = "https://99exch.com/login";
+	public static final String matchURL = "https://cricbet99.com/login";
 
 }
